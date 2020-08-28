@@ -1,2 +1,2 @@
-*.psd
-*.exe
+prueba1_git_moyprg.exe
+
