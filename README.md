@@ -1,2 +1,2 @@
-# Esta es una carpeta con progrmas básicos de c++
+# Esta es una carpeta con programas básicos de c++
 Los programas son de los tutoriales del canal de Youtube Programación ATS
