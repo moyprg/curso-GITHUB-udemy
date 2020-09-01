@@ -14,6 +14,8 @@ int main(){
 	cout<<"Se modifica un segundo commit."<<endl;
 	cout<<"Se agrega mas codigo."<<endl;
 	cout<<"Esto esta en la rama moy2."<<endl;
+	cout<<"Se unieron las ramas con el comando merge"<<endl;
+	cout<<"Se ha realizo la prueba de subir el archivo al repositorio de github"<<endl;
 	
 	return 0;
 }
